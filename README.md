@@ -3,6 +3,7 @@
 Secure Infrastructre of Apache Guacamole in AWS t2.micro ec2 with Auto stop/start with Lambda, Cloudwatch, VPCFlowlogs
 
 #######DB Scripts#########
+
 mysql -u root -p
 mysql -h mariadb.awscname.ap-southeast-1.rds.amazonaws.com -P 3306 -u root -p
 
